@@ -1,4 +1,4 @@
-# MAGI
+# NERV
 
 Learning about data pipelines, writing safer and better code, and exploring quantitative finance.
 
